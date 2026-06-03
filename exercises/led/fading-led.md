@@ -1,5 +1,5 @@
 ### Purpose:
-In this exercise, we will use the same components and circuit layout once again (blinkind-led). However, this time we will fade the LED's brightness up and down! We will use a range from 0 to 255. Because we want a signal that oscillates rather than staying constant, we will use the `analogWrite()` function. 
+In this exercise, we will use the same components and circuit layout once again `blinkind-led`. However, this time we will fade the LED's brightness up and down! We will use a range from 0 to 255. Because we want a signal that oscillates rather than staying constant, we will use the `analogWrite()` function. 
 
 Note that we are using a **digital PWM pin** (Pin 11) for this. The `analogWrite()` function simulates an analog output on a digital pin using a technique called **PWM (Pulse Width Modulation)**. It converts a numerical value into a pulsing electrical signal, allowing us to seamlessly control LED brightness or motor speed.
 
