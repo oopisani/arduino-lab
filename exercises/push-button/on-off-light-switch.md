@@ -1,6 +1,6 @@
 ### Purpose:
 
-In this exercise, we will use the same components and circuit layout once again (flashing-light-switch). 
+In this exercise, we will use the same components and circuit layout once again `flashing-light-switch`. 
 
 
 ### Code:
