@@ -11,8 +11,15 @@ In this exercise, we will build a "light-sensitive" LED circuit using an LDR (Li
 * 1x USB cable
 * 1x Arduino Uno board
 
+### Circuit Layout:
+
+<p align="center">
+  <img src="https://www.makerhero.com/wp-content/uploads/2025/06/Sensor-de-Luz-Kit-Pocket-Arduino.png" alt="Descrição" width="
+500">
+</p>  
+
 ### Code:
-It is important to remember that these are **decoupled systems**: the LDR alters its resistance based on environmental light levels to change the analog voltage reading, while the LED simply reacts to the output commands driven by our software logic. Our code is configured so that when the LDR's resistance increases (indicating a darker environment), the LED turns ON. When the resistance drops (indicating a bright environment), the LED turns OFF.
+It is always important to remember that these are **decoupled systems**: the LDR alters its resistance based on environmental light levels to change the analog voltage reading, while the LED simply reacts to the output commands driven by our software logic. Our code is configured so that when the LDR's resistance increases (indicating a darker environment), the LED turns ON. When the resistance drops (indicating a bright environment), the LED turns OFF.
 
 ```cpp
 // CODE: Ambient Light Sensor (LDR)
