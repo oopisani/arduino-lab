@@ -1,5 +1,5 @@
 ### Purpose:
-In this exercise, we will use the same components and circuit layout from the previous blinking-led exercise. However, we will use the `delay()` function with specific timing intervals to simulate an "SOS" Morse code distress signal.
+In this exercise, we will use the same components and circuit layout from the previous `blinking-led exercise`. However, we will use the `delay()` function with specific timing intervals to simulate an "SOS" Morse code distress signal.
 
 ### Code:
 
