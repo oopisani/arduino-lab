@@ -1,4 +1,4 @@
-# arduino-labs
+# arduino-lab
 
 <p align="center">
   <img src="https://64.media.tumblr.com/3d090e3557ce77c92eb0cf23ec85476f/5b5768b53aad21c8-e4/s1280x1920/c15a64e82d5de5cbde53b8a88700d5e3740ef319.png" alt="Arduino Labs Header Banner" width="1080">
@@ -8,7 +8,7 @@
   <img src="https://i.ibb.co/KxG6sDf2/hospedar2.png" alt="Arduino Labs Icon" width="300">
 </p>
 
-## About arduino-labs
+## About arduino-lab
 
 This repository contains **summaries, exercises, and circuit designs** developed throughout my activities. *(Note: Projects and other standalone works will be published separately in individual repositories).*
 
