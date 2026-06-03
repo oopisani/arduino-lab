@@ -19,9 +19,9 @@ The goal of this space is to showcase my gradual progress and inspire others to 
 I'm constantly evolving and learning. If you have any questions or spot any mistakes, please feel free to send your feedback to: [anyapisani@gmail.com](mailto:anyapisani@gmail.com)
 
 > **⚠️ Copyright & Attribution**  
-> Please note that all materials here were written 100% by me. If you wish to use these summaries, I kindly ask that you credit this repository.
+**Note:** While the base code and circuits are guided by course exercises, all project summaries, conceptual explanations, and inline code comments are entirely original.
 
-<p align="center">
   <img src="https://64.media.tumblr.com/a32d2521476113b42839db34d9232ce8/5b5768b53aad21c8-ad/s1280x1920/1b534d7a822b3ad1cdffedb44ef2891c188f6c50.png" alt="Arduino Labs Footer Banner" width="1080">
 </p>
+
 
