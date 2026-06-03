@@ -1,5 +1,5 @@
 ### Purpose:
-The rbg-led setup remains exactly the same as the previous exercise (rbg-led). However, this time we will add a potentiometer by connecting one outer pin to 5V, the other to GND, and its center pin (the wiper) to an Arduino analog input pin.
+The rbg-led setup remains exactly the same as the previous exercise `rbg-led`. However, this time we will add a potentiometer by connecting one outer pin to 5V, the other to GND, and its center pin (the wiper) to an Arduino analog input pin.
 
 To read the position of a potentiometer or any component with a variable signal, we use the `analogRead()` function. This function converts the mechanical rotation into a digital value ranging from 0 to 1023 (10-bit resolution). The program continuously reads this value and uses conditional `if/else if` statements to determine which color of the RGB LED to light up based on the knob's position.
 
